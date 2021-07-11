@@ -3,7 +3,7 @@ Step 0: Become familiar with Rust basics
 
 __Estimated time__: 3 days
 
-Read through [Rust Book], [Rust FAQ], and become familiar with basic [Rust] concepts, syntax, memory model, type and module systems.
+Read through [Rust Book], and become familiar with basic [Rust] concepts, syntax, memory model, type and module systems.
 
 Polish your familiarity by completing [Rust By Example].
 
@@ -43,7 +43,6 @@ _Additional_ articles, which may help to understand the above topic better:
 [Rust]: https://www.rust-lang.org
 [Rust Book]: https://doc.rust-lang.org/book
 [Rust By Example]: https://doc.rust-lang.org/rust-by-example
-[Rust FAQ]: https://www.rust-lang.org/faq.html
 
 [1]: https://chrismorgan.info/blog/rust-ownership-the-hard-way
 [2]: https://aloso.github.io/2021/03/28/module-system.html
